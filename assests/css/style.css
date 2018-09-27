@@ -4,6 +4,7 @@ header {
     width: 100%;
     position:fixed;
     top:0;
+    left:0;
     border-bottom:1px solid #cccccc;
 }
 
@@ -15,7 +16,7 @@ h1 {
     border-color: #ffffff;
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size:33px;
-    margin-left:196px;
+    margin-left:205px;
     width:220px;
     margin-top: 0;
     padding:31px;
